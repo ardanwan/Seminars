@@ -1,8 +1,7 @@
 """
-Write a documentation for the simple function below. Your partner will have to
-implement the function, without knowing the code. Send your partner the
-documentation and see if he can work with it.
-No cheating! Don't show or tell hem the code directly
+This function has 4 values (w, x, y and z) as input.
+It returns a dictionary with variables "multiply" (x times y), "division" ( x divided by y),
+"add" (w and z added) and "subtract" which subtracts w by z.
 """
 def function_2c(w, x, y, z):
 
