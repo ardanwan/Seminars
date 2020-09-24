@@ -1,8 +1,10 @@
 """
-Write a documentation for the simple function below. Your partner will have to
-implement the function, without knowing the code. Send your partner the
-documentation and see if he can work with it.
-No cheating! Don't show or tell hem the code directly
+Function to multiply, add, substract or divide numbers
+input:
+w, x, y, z: int or float
+
+returns: dictionary wih the product and quotient of x and y respectively,
+sum and difference of w and z respectively
 """
 def function_2c(w, x, y, z):
 
