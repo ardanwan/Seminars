@@ -13,7 +13,11 @@ var_1 = function_2b(5)
 
 var_2 = function_2c(10)
 
+<<<<<<< HEAD
 var_3 = str(function_2b(10)) + function_2c(100)
+=======
+var_3 = str(function_2c(...)) + function_2b(...)
+>>>>>>> f3a9292adff6efebdda6f8dafdd218a655dc8a6f
 
 if var_1 == 950:
     print("Good job!")
