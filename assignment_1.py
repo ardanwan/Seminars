@@ -5,6 +5,7 @@ The fastest one to push is lucky, the others will most likely get a merge
 conflict. See if you can fix it :)
 """
 
+
 def lower_case(string):
     """
     Argument:
@@ -26,6 +27,7 @@ def lower_case(string):
 Do the same thing again with upper_case, but change the order so everyone
 experiences at least 1 merge conflict.
 """
+
 
 def upper_case(string):
     """
