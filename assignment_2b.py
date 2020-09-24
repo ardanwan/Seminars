@@ -6,12 +6,15 @@ No cheating! Don't show or tell hem the code directly
 """
 def function_2b(string_1, string_2):
 
+    # turn string_1 to lowercase 
     lower = string_1.lower()
+    # turn string_2 to uppercase 
     upper = string_2.upper()
+    # added strings together
     combined = string_1 + string_2
 
+    # make dictionary of lower upper and combined string and return
     dict = {"L": lower,
                "U": upper,
-               "C": combined}
-
+                "C": combined}
     return dict
