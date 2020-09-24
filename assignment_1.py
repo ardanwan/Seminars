@@ -16,8 +16,8 @@ def lower_case(string):
     """
 
     ### your code starts here
-    input_upper_string=string
-    lower_string=input_upper_string.lower()
+    input_string=string
+    lower_string=input_string.lower()
     ### your code ends here
 
     return lower_string
@@ -39,8 +39,8 @@ def upper_case(string):
     """
 
     ### your code starts here
-    input_lower_string=string
-    upper_string=input_lower_string.upper()
+    input_string=string
+    upper_string=input_string.upper()
 
     ### your code ends here
 
