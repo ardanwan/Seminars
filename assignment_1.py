@@ -15,8 +15,6 @@ def lower_case(string):
 
     ### your code starts here
     lower_string = string.lower()
-    lowerrrrr = lower_string
-    # LALA merge conflict
     ### your code ends here
 
     return lower_string
@@ -39,7 +37,8 @@ def upper_case(string):
     ### your code starts here
     upper_string = string.upper()
     ## Oops I pulled it before I committed something myself so new attempt at getting a merge conflict
-    upper = upper_string
+    returnvalue = upper_string
+    # try to got a merge conflict
     ### your code ends here
 
-    return upper
+    return returnvalue
