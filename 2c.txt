@@ -1,0 +1,5 @@
+This file describes the workings of 'function_2c' from the assignments.
+The function takes 4 natural numbers, 'w', 'x', 'y' and 'z'. It then creates 4 variables, namely
+multiplication, division, addition and subtraction. In multiplication x*y is stored. In division x/y.
+In addition w+z and in subtraction w-z. These variables are then stored in a dictionary, as corresponding
+values for the keys: 'multiply', 'divide', 'add' and 'subtract'. This dictionary is then returned. 
