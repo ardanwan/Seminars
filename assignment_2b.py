@@ -35,3 +35,4 @@ def function_2b(string_1, string_2):
                "C": combined}
 
     return dict
+
