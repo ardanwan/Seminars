@@ -5,21 +5,6 @@ The fastest one to push is lucky, the others will most likely get a merge
 conflict. See if you can fix it :)
 """
 
-def lower_case(string):
-    """
-    Argument:
-    string -- text you want to turn into lower case
-
-    Returns:
-    lower_string -- lower case version of string
-
-    """
-
-    ### your code starts here
-
-    ### your code ends here
-
-    return lower_string
 
 
 """
@@ -36,9 +21,20 @@ def upper_case(string):
     upper_string -- upper case version of string
     
     """
+    upper_string = lowstring.isupper()
 
-    ### your code starts here
+    return upper_string
 
-    ### your code ends here
+
+def lower_case(string):
+    """
+    Argument:
+    string -- text you want to turn into lower case
+
+    Returns:
+    lower_string -- lower case version of string
+
+    """
+    lower_string = string.islower()
 
     return lower_string
