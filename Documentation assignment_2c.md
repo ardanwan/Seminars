@@ -4,7 +4,7 @@ Input variables:
 w, x, y, z
 
 Output:
-four elements
+a dictionary that contains four elements
 	
 	multiply: multiplication of x &y (x*y)
 	
