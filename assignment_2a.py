@@ -9,11 +9,12 @@ Run the script to see if you succeeded! PS: Multiple combinations are possible,
 just give a correct one.
 """
 
-var_1 = function_2c(1000, -50)
+var_1 = function_2c(1000, 1, 1, -50)['add']
 
-var_2 = function_2b('Seminars','Borrel')
+var_2 = function_2b('Seminars','Borrel')['C']
 
-var_3 = str(function_2b(...)) + function_2c(...)
+var_3 = str(function_2c(10000, 1, 1,0)['add']) + function_2b('cls','')['C']
+
 
 if var_1 == 950:
     print("Good job!")
