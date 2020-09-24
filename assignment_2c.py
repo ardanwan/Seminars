@@ -18,8 +18,11 @@ def function_2c(w, x, y, z):
 
     Returns
     ---------
-    Dict with key, values pairs containing
-    the result of the operations.
+    - Dict with key, value pairs
+      "multiply" => x*y
+      "divide" => x/y
+      "add" => w+z
+      "subtract" => w - z
     """
     multiplication = x * y
     division = x / y

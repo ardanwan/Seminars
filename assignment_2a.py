@@ -9,17 +9,19 @@ Run the script to see if you succeeded! PS: Multiple combinations are possible,
 just give a correct one.
 """
 
-var_1 = function_2b(...)
+print(help(function_2c))
 
-var_2 = function_2c(...)
+# var_1 = function_2b(...)
 
-var_3 = str(function_2b(...)) + function_2c(...)
+# var_2 = function_2c(...)
 
-if var_1 == 950:
-    print("Good job!")
+# var_3 = str(function_2b(...)) + function_2c(...)
 
-if var_2 == "SeminarsBorrel":
-    print("Well done!")
+# if var_1 == 950:
+#     print("Good job!")
 
-if var_3 == "10000cls":
-    print("Excellent!")
+# if var_2 == "SeminarsBorrel":
+#     print("Well done!")
+
+# if var_3 == "10000cls":
+#     print("Excellent!")
