@@ -9,11 +9,33 @@ Run the script to see if you succeeded! PS: Multiple combinations are possible,
 just give a correct one.
 """
 
-var_1 = function_2b(...)
+'''
+function_2b(string1, string2):
+	Takes in 2 strings as arguments.
 
-var_2 = function_2c(...)
+	Returns a dict with 3 strings as values. 
+		Transforms string1 into lowercase strings.
+		Transforms string2 into uppercase strings
+		Combines String 1 and 2 together.
+		Puts them in a dict with keys "L" for lower, "U" for upper and "C" for combined
 
-var_3 = str(function_2b(...)) + function_2c(...)
+
+function_2c(w, x, y, z):
+	takes in 4 integer arguments, w, x, y, z.
+	Returns a dict with 4 integers as values.:
+		the keyse are: "multiply", mulltiplies x with y.
+		"divide", divides x by y.
+		"add", Add z to w.
+		"subtract", Subtracts z from w.
+
+'''
+
+
+var_2 = function_2b('Seminars', 'Borrel')['C']
+
+var_1 = function_2c(-50, 10, 1000, 1000)['add']
+
+var_3 = str(function_2c(-50, 10, 1000, 1000)['multiply']) + function_2b('cLs', 'CLS')['L']
 
 if var_1 == 950:
     print("Good job!")
