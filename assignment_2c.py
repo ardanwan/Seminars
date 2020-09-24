@@ -5,6 +5,13 @@ documentation and see if he can work with it.
 No cheating! Don't show or tell hem the code directly
 """
 def function_2c(w, x, y, z):
+    """
+    multipying x and y
+    divide x by y
+    adding w and z
+    subtracting z from w
+    and return the results
+    """
 
     multiplication = x * y
     division = x / y
