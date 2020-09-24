@@ -8,15 +8,15 @@ conflict. See if you can fix it :)
 def lower_case(string):
     """
     Argument:
-    string -- text you want to turn into lower case
+    string = "Hallo world"
 
     Returns:
-    lower_string -- lower case version of string
+    lower_string = string.lower()
 
     """
 
     ### your code starts here
-
+    string = "Hello world"
     ### your code ends here
 
     return string.lower()
@@ -38,7 +38,7 @@ def upper_case(string):
     """
 
     ### your code starts here
-
+    string = "Hello world"
     ### your code ends here
 
     return string.upper()
