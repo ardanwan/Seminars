@@ -17,10 +17,13 @@ def lower_case(string):
 
     ### your code starts here
 
+    lower_string = str.lower(string)
+
     ### your code ends here
 
     return lower_string
 
+print(lower_case('HELP'))
 
 """
 Do the same thing again with upper_case, but change the order so everyone
@@ -38,7 +41,7 @@ def upper_case(string):
     """
 
     ### your code starts here
-
+    lower_string = str.lower(string)
     ### your code ends here
 
     return lower_string
