@@ -28,6 +28,7 @@ def upper_case(string):
     Argument:
     string -- text you want to turn into upper case
 
+
     Returns:
     upper_string -- upper case version of string
     
@@ -35,6 +36,6 @@ def upper_case(string):
 
     ### your code starts here
 
-    ### your code ends here
+    upper_string = string.upper()
 
-    return lower_string
+    return upper_string
