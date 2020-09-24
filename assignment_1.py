@@ -36,6 +36,8 @@ def upper_case(string):
 
     ### your code starts here
     upper_string = string.upper()
+    ## Oops I pulled it before I committed something myself so new attempt at getting a merge conflict
+    upper = upper_string
     ### your code ends here
 
-    return upper_string
+    return upper
