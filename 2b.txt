@@ -1,0 +1,6 @@
+This file describes the workings of 'function_2b' from the assignments.
+The function takes two strings. First, the function creates three strings, 'lower', 'upper' 
+and 'combined'. 'lower' will correspond to the first string in lower case. 'upper' to the second string
+in upper case. 'combined' corresponds to both strings attached in their original form (lower- and 
+uppercase wise). The function returns a dictionary, where the keys are 'L', 'U', and 'C', and the values
+are the corresponding newly created strings.
