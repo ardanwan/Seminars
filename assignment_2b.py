@@ -6,6 +6,11 @@ No cheating! Don't show or tell hem the code directly
 """
 def function_2b(string_1, string_2):
 
+    """
+    the output is the dictionary with keys "L", "U" and "C" with values of lower case string, 
+    upper case string and combined string, respectively.
+    """
+
     lower = string_1.lower()
     upper = string_2.upper()
     combined = string_1 + string_2
