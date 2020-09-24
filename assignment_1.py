@@ -21,7 +21,7 @@ def upper_case(string):
     upper_string -- upper case version of string
     
     """
-    upper_string = lowstring.isupper()
+    upper_string = string.isupper()
 
     return upper_string
 
