@@ -27,6 +27,3 @@ def function_2c(w, x, y, z):
                "subtract": subtraction}
 
     return results
-
-dict1 = {'multiply': 8, 'divide': 0.5, 'add': 9, 'subtract': -7}
-print(dict1['add'])
