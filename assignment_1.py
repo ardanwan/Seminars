@@ -38,4 +38,4 @@ def upper_case(string):
     random.shuffle(string)
     upper_string = string.upper(string)
 
-    return lower_string
+    return upper_string
