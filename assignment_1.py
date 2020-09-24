@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Sep 24 15:45:01 2020
+
+@author: gijsv
+"""
+
 """
 In this short exercise you will practice dealing with a merge conflict.
 Finish the lower_case function and push your changes to the Github repository.
@@ -9,14 +16,12 @@ def lower_case(string):
     """
     Argument:
     string -- text you want to turn into lower case
-
     Returns:
     lower_string -- lower case version of string
-
     """
 
     ### your code starts here
-    lower_string = string.islower()
+    lower_string = string.lower()
     ### your code ends here
 
     return lower_string
@@ -31,14 +36,13 @@ def upper_case(string):
     """
     Argument:
     string -- text you want to turn into upper case
-
     Returns:
     upper_string -- upper case version of string
     
     """
 
     ### your code starts here
-
+    lower_string = string.upper()
     ### your code ends here
 
     return lower_string
