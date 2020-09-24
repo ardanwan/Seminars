@@ -38,7 +38,7 @@ def upper_case(string):
     """
 
     ### your code starts here
-    lower_string=string.srting.upper()
+    lower_string = string.lower()
     ### your code ends here
 
     return lower_string
