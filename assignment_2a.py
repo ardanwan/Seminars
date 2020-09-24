@@ -35,11 +35,12 @@ results -- dictionary of:
             -- subtract, w - z
 """
 
-var_1 = function_2b(...)
+var_2 = function_2b("","s")['U'] + function_2b("eminars","B")['C'] + function_2b("orrel","")['L']
 
-var_2 = function_2c(...)
+var_1 = function_2c(5,95,10,1)['multiply']
 
-var_3 = str(function_2b(...)) + function_2c(...)
+var_3 = str(function_2c(10,100,100,10)['multiply']) + function_2b("cls","")['L']
+
 
 if var_1 == 950:
     print("Good job!")
