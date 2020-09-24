@@ -6,10 +6,12 @@ No cheating! Don't show or tell hem the code directly
 """
 def function_2c(w, x, y, z):
     """
-    Multiply x with y
-    Divide x with y
-    Add w with z
-    Substract z to w
+    Get input: w, x, y, z
+    Return a dictionary with the following key-value pair:
+    'multiply' : Multiply x with y
+    'divide' : Divide x with y
+    'add' : Add w with z
+    'substract' : Substract z to w
     :param w: integer
     :param x: integer
     :param y: integer
