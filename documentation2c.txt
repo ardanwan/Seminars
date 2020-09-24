@@ -1,0 +1,3 @@
+function_2c takes the parameters w, x, y, z
+the function multiplies x and y, divedes x by y adds w and z and substracts z from w 
+the function returns the resuls
