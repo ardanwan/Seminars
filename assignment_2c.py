@@ -19,12 +19,12 @@ outputs results in form of a dict with entries named after the
 def function_2c(w, x, y, z):
     """
     The function_2c takes 4 parameters as input(w, x, y, z). The output is a dictionary.
-    This dictionary contains entries: multiply, division, addition, substraction.
+    This dictionary contains entries: multiply, divide, add, substract.
 
-    multiply: x * y
-    division: x / y
-    addition: w + z
-    substraction: w - z
+    multiply: x * y \n
+    divide: x / y \n
+    add: w + z \n
+    substract: w - z \n
     """
 
     multiplication = x * y
