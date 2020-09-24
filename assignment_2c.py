@@ -5,7 +5,22 @@ documentation and see if he can work with it.
 No cheating! Don't show or tell hem the code directly
 """
 def function_2c(w, x, y, z):
+    """
+    Create a dict with the product of x and y,
+    the division of x and y,
+    the sum of w and z
+    and the difference between w and z
 
+    Input
+    ---------
+    w, x, y, z: numbers (float/int)
+
+
+    Returns
+    ---------
+    Dict with key, values pairs containing
+    the result of the operations.
+    """
     multiplication = x * y
     division = x / y
     addition = w + z
