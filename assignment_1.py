@@ -23,6 +23,7 @@ def lower_case(string):
     return lower_string
 
     ### your code ends here
+    lower_string = string.lower()
 
     return lower_string
 
