@@ -15,6 +15,8 @@ def lower_case(string):
 
     ### your code starts here
     lower_string = string.lower()
+    lowerrrrr = lower_string
+    # LALA merge conflict
     ### your code ends here
 
     return lower_string
