@@ -16,7 +16,7 @@ def lower_case(string):
     """
 
     ### your code starts here
-    lower_string = string.lower()
+string -- yay, more assignments
     ### your code ends here
 
     return lower_string
@@ -38,13 +38,7 @@ def upper_case(string):
     """
 
     ### your code starts here
-    upper_string = string.upper()
+string -- no time for this
     ### your code ends here
 
-    return upper_string
-
-
-if __name__ == '__main__':
-    # testing
-    print("Lower case : ", lower_case('TEST'))
-    print("Upper case : ", upper_case('test'))
+    return lower_string
