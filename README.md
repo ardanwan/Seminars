@@ -1,4 +1,5 @@
 # Seminars
+Assignment by: Lotte Felius, Kamiel Gulpen & Daan Moll
 Assignment for Seminars Lecture on Team-based Coding Projects
 
 Instructions:
