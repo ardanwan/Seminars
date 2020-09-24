@@ -21,6 +21,7 @@ def lower_case(string):
 
     return lower_string
 
+print(lower_case('HELP'))
 
 """
 Do the same thing again with upper_case, but change the order so everyone
