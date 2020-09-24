@@ -5,6 +5,18 @@ documentation and see if he can work with it.
 No cheating! Don't show or tell hem the code directly
 """
 def function_2b(string_1, string_2):
+    """
+    Argument:
+    string_1 -- string
+    string_2 -- string
+
+    Returns:
+    dict -- dictionary of:
+            -- L, lower cased string_1
+            -- U, upper cased string_2
+            -- C, lower cased string_1 + upper cased string_2
+
+    """
 
     lower = string_1.lower()
     upper = string_2.upper()

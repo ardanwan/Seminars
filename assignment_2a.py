@@ -7,6 +7,32 @@ the following numbers and strings as input for the 2 functions:
 [5, 10, 100, 1000, -50, 'seminars', 'Seminars', 'CLS', 'cLs', 'Borrel']
 Run the script to see if you succeeded! PS: Multiple combinations are possible,
 just give a correct one.
+
+---
+function_2b:
+
+Argument:
+string_1 -- string
+string_2 -- string
+
+Returns:
+dict -- dictionary of:
+        -- L, lower cased string_1
+        -- U, upper cased string_2
+        -- C, lower cased string_1 + upper cased string_2
+
+---
+function_2c:
+
+Argument:
+w, x, y, z -- floats or integers, y != 0
+
+Returns:
+results -- dictionary of:
+            -- multiply, x * y
+            -- divide, x / y
+            -- add, w + z
+            -- subtract, w - z
 """
 
 var_1 = function_2b(...)
