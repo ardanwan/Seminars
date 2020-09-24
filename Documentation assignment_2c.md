@@ -6,7 +6,7 @@ w, x, y, z
 Output:
 a dictionary that contains four elements
 	
-	multiply: multiplication of x &y (x*y)
+	multiply: multiplication of x & y (x*y)
 	
 	divide: division of x by y (x/y)
 	
