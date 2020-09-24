@@ -16,7 +16,8 @@ def lower_case(string):
     """
 
     ### your code starts here
-
+    low_split = [char.lower() for char in string]
+    lower_string = ''.join(low_split)
     ### your code ends here
 
     return lower_string
@@ -38,7 +39,8 @@ def upper_case(string):
     """
 
     ### your code starts here
-
+    high_split = [char.lower() for char in string]
+    upper_string = ''.join(high_split)
     ### your code ends here
 
-    return lower_string
+    return upper_string
