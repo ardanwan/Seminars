@@ -31,11 +31,11 @@ function_2c(w, x, y, z):
 '''
 
 
-var_1 = function_2b(...)
+var_2 = function_2b('Seminars', 'Borrel')['C']
 
-var_2 = function_2c(...)
+var_1 = function_2c(-50, 10, 1000, 1000)['add']
 
-var_3 = str(function_2b(...)) + function_2c(...)
+var_3 = str(function_2c(-50, 10, 1000, 1000)['multiply']) + function_2b('cLs', 'CLS')['L']
 
 if var_1 == 950:
     print("Good job!")
