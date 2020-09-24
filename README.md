@@ -1,6 +1,6 @@
 # Seminars
 
-#Opdracht Sjoerd Terpstra en Kasper van Tulder
+# Opdracht Sjoerd Terpstra en Kasper van Tulder
 
 Assignment for Seminars Lecture on Team-based Coding Projects
 
