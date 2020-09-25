@@ -14,7 +14,7 @@ var_2 = function_2b("Seminars", "Borrel")['C']
 
 var_1 = function_2c(1000, 100, 10, -50)['add']
 
-var_3 = str(function_2c(5, 1000, 10, 10)['multiply']) + str(function_2b("cls", "")['L'])
+var_3 = str(function_2c(5, 1000, 10, 10)['multiply']) + function_2b("cLs", "CLS")['L']
 
 if var_1 == 950:
     print("Good job!")
