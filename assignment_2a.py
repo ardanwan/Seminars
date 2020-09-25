@@ -9,11 +9,17 @@ Run the script to see if you succeeded! PS: Multiple combinations are possible,
 just give a correct one.
 """
 
-var_1 = function_2b(...)
+# Let the var_1 equals 950 by 1000 - 50
+var_1 = function_2c(1000,100,10,-50)
+var_1 = var_1['add']
 
-var_2 = function_2c(...)
+#let the var2 be 'SeminarsBorrel by' 'C' ('Seminars' and 'Borrel')
+var_2 = function_2b('Seminars','Borrel')
+var_2 = var_2['C']
 
-var_3 = str(function_2b(...)) + function_2c(...)
+#let var_3 equals 1000cls by 10*1000+ lower(CLS)
+var_3 = str(function_2c(5,10,1000,-50)['multiply']) + function_2b('CLS','cls')['L']
+print(var_3)
 
 if var_1 == 950:
     print("Good job!")
