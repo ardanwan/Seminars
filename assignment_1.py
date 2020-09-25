@@ -14,7 +14,7 @@ def lower_case(string):
     lower_string -- lower case version of string
 
     """
-
+#change by cc
     lower_string = str.lower(string)
 
     return lower_string
@@ -35,6 +35,6 @@ def upper_case(string):
     
     """
 
-    upper_string = str.upper(string)
+    lower_string = str.upper(string)
 
-    return upper_string
+    return lower_string
