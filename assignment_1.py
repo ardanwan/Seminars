@@ -35,6 +35,6 @@ def upper_case(string):
     
     """
 
-    lower_string = str.upper(string)
+    upper_string = str.upper(string)
 
-    return lower_string
+    return upper_string
