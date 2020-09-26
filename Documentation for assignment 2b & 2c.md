@@ -1,6 +1,6 @@
-#Documentation for assignment 2b & 2c
+# Documentation for assignment 2b & 2c
 
-####by *Xiang Li*
+#### by *Xiang Li*
 
 ```python
 #function_2b
