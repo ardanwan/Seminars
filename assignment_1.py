@@ -15,7 +15,8 @@ def lower_case(string):
 
     """
 
-    lower_string = string.lower()
+    ### your code starts here
+    lower_string = str.lower(string)
     ### your code ends here
 
     return lower_string
@@ -33,16 +34,12 @@ def upper_case(string):
 
     Returns:
     upper_string -- upper case version of string
-
+    
     """
 
-    lower_string = string.upper()
+    ### your code starts here
+    upper_string = str.upper(string) # upper
+    ### your code ends here
 
-    return lower_string
+    return upper_string
 
-
-if __name__ == "__main__":
-
-    string = "hAlLo"
-    print(lower_case(string))
-    print(upper_case(string))
