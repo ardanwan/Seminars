@@ -5,10 +5,11 @@ documentation and see if he can work with it.
 No cheating! Don't show or tell hem the code directly
 """
 
+def function_2b(string_1, string_2):
 
 	"""
 	Documentation function_2b:
-	Input:
+		Input:
 		We take as input two arguments string_1 and string_2.
 
 	Code/Output:
@@ -24,5 +25,15 @@ No cheating! Don't show or tell hem the code directly
 
 		This dictionary is returned as the output.
 	"""
+
+	lower = string_1.lower()
+	upper = string_2.upper()
+	combined = string_1 + string_2
+	dict = {"L": lower,
+               "U": upper,
+               "C": combined}
+
+	return dict
+
 
 
