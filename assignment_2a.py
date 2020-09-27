@@ -23,3 +23,4 @@ if var_2 == "SeminarsBorrel":
 
 if var_3 == "10000cls":
     print("Excellent!")
+
