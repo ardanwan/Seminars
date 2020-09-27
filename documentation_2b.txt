@@ -1,0 +1,15 @@
+Write a documentation for the simple function below. Your partner will have to
+implement the function, without knowing the code. Send your partner the
+documentation and see if he can work with it.
+
+Documentation: 
+
+Function_2b has 2 parameters as input. string_1 and string_2.
+The python .lower() function is applied on string_1 and stored in the variable lower
+The .upper() function is applied on string_2 and stored in the variable upper.
+Then in the variable 'combined'  string_2 is appended to string_1.
+
+The function returns a dictionary. This dictionary contains 3 elements:
+The first element with key "L" refers to the result of the .lower function on string_1.
+The key "U" refers to the result of the .upper function on string_2.
+And the "C" key refers to the result of the combined strings.
