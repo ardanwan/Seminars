@@ -9,9 +9,11 @@ Run the script to see if you succeeded! PS: Multiple combinations are possible,
 just give a correct one.
 """
 
-var_1 = function_2b(...)
+input = [5, 10, 100, 1000, -50, 'seminars', 'Seminars', 'CLS', 'cLs', 'Borrel']
 
-var_2 = function_2c(...)
+var_1 = function_2c(...)
+
+var_2 = function_2b(...)
 
 var_3 = str(function_2b(...)) + function_2c(...)
 
