@@ -5,7 +5,7 @@ documentation and see if he can work with it.
 No cheating! Don't show or tell hem the code directly
 """
 def function_2b(string_1, string_2):
-	'''
+    '''
     Input: Two strings str1, str2
     Return: A dict with following results:
 
