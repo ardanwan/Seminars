@@ -15,7 +15,6 @@ var_1 = var_1['subtract']
 
 var_2 = function_2b('Seminars', 'Borrel')
 var_2 = var_2['C']
-print(var_2)
 
 var_3 = str((function_2c(x=10, y=1000, w=5, z=5))['multiply']) + function_2b('cls', 'CLS')['L']
 
