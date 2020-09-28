@@ -9,14 +9,12 @@ def lower_case(string):
     """
     Argument:
     string -- text you want to turn into lower case
-
     Returns:
     lower_string -- lower case version of string
-
     """
 
     ### your code starts here
-
+    lower_string = string.lower()
     ### your code ends here
 
     return lower_string
@@ -31,14 +29,16 @@ def upper_case(string):
     """
     Argument:
     string -- text you want to turn into upper case
-
     Returns:
     upper_string -- upper case version of string
     
     """
 
     ### your code starts here
-
+    upper_string = string.upper()
+    ## Oops I pulled it before I committed something myself so new attempt at getting a merge conflict
+    returnvalue = upper_string
+    # try to got a merge conflict
     ### your code ends here
 
-    return lower_string
+    return returnvalue
