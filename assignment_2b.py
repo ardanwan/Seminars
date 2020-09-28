@@ -9,9 +9,9 @@ def function_2b(string_1, string_2):
     """
     Takes in two strings (string_1, string_2.
     Returns dict with:
-        dict[0] = string_1 as lower case
-        dict[1] = string 2 as upper case
-        dict[2] = string_1 as lower case + string_2 as higher case
+        dict["L"] = string_1 as lower case
+        dict["U"] = string 2 as upper case
+        dict["C"] = string_1 as lower case + string_2 as higher case
     """
 
     lower = string_1.lower()
