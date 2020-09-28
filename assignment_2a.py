@@ -11,11 +11,11 @@ just give a correct one.
 
 input = [5, 10, 100, 1000, -50, 'seminars', 'Seminars', 'CLS', 'cLs', 'Borrel']
 
-var_1 = function_2c(...)
+var_1 = function_2c(1000,10,10,-50)["add"]
 
-var_2 = function_2b(...)
+var_2 = function_2b('Seminars','Borrel')["C"]
 
-var_3 = str(function_2c(...)) + function_2d(...)
+var_3 = str(function_2c(-50,10,1000,-50)["multiply"]) + function_2b('CLS','Borrel')["L"]
 
 if var_1 == 950:
     print("Good job!")
