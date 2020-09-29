@@ -4,6 +4,7 @@ Finish the lower_case function and push your changes to the Github repository.
 The fastest one to push is lucky, the others will most likely get a merge
 conflict. See if you can fix it :)
 """
+import numpy as np
 
 def lower_case(string):
     """
@@ -16,7 +17,7 @@ def lower_case(string):
     """
 
     ### your code starts here
-
+    lower_string = np.lower_string(string)
     ### your code ends here
 
     return lower_string
@@ -36,7 +37,7 @@ def upper_case(string):
     upper_string -- upper case version of string
     
     """
-
+    upper_string = np.upper_string(string)
     ### your code starts here
 
     ### your code ends here
